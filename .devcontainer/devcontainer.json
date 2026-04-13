@@ -1,0 +1,11 @@
+{
+  "name": "Python Codespace",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "extensions": [
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-python.black-formatter",
+    "pkief.material-icon-theme",
+    "dracula-theme.theme-dracula"
+  ]
+}
